@@ -6,8 +6,7 @@
 ![Status](https://img.shields.io/pypi/status/montri.svg)
 [![License](https://img.shields.io/github/license/kaptos/montri.svg)](https://github.com/kaptos/montri/blob/master/LICENSE)
 
-Montri  
-/ˈmɒn.tɹi/  
+Montri /ˈmɒn.tɹi/  
 A radio direction finding monitoring station.
 
 ## Repository
